@@ -1,3 +1,6 @@
+#Alunos: Clara Cecilia Onofre De Freitas, Danilo dos Santos Silva, Matheus Oliveira e João Pedro Alves Dias da Silva
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
